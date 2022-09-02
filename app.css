@@ -1,0 +1,19 @@
+html {
+    font-family: 'Nunito', sans-serif;
+}
+
+a {
+    text-transform: uppercase;
+    font-size: x-large;
+    font-weight: 200;
+}
+
+#navigationBar .navbar-brand {
+    color: #c0261b;
+    font-size: x-large;
+    font-weight: 200;
+}
+
+#navigationBar .nav-item {
+    color: white;
+}
