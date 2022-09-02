@@ -1,4 +1,5 @@
-html {
+body {
+    background-color: #fcc1cb;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -11,9 +12,16 @@ a {
 #navigationBar .navbar-brand {
     color: #c0261b;
     font-size: x-large;
+}
+
+#navigationBar {
     font-weight: 200;
 }
 
-#navigationBar .nav-item {
+#navigationBar .nav-link {
     color: white;
+}
+
+#navigationBar .nav-link:hover {
+    color: #c0261b;
 }
