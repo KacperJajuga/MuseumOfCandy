@@ -25,3 +25,18 @@ a {
 #navigationBar .nav-link:hover {
     color: #c0261b;
 }
+
+#headGroup span {
+    color: #c0261b;
+}
+
+#headGroup h2{
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+@media (max-width: 1250px) {
+    #headGroup h2{
+        font-size: 3rem;
+    }
+}
