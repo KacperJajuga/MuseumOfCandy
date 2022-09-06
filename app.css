@@ -40,3 +40,46 @@ a {
         font-size: 3rem;
     }
 }
+
+.first-paragraph h2 {
+    color: #c0261b;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.first-paragraph p {
+    color: #d15c54;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 1.2;
+
+}
+section {
+    margin-bottom: 80px;
+}
+
+.second-paragraph h2 {
+    color: #c0261b;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.second-paragraph p {
+    color: #d15c54;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 1.2;
+}
+
+.third-paragraph h2 {
+    color: #c0261b;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.third-paragraph p {
+    color: #d15c54;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 1.2;
+}
