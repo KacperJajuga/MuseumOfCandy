@@ -83,3 +83,8 @@ section {
     font-size: 1.125rem;
     line-height: 1.2;
 }
+
+.navbar.scrolled {
+    background: rgb(141, 69, 141);
+    transition: background 500ms;
+}
